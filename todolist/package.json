@@ -1,6 +1,6 @@
 {
   "name": "todolist",
-  "homepage": "https://kailyncleere.github.io/ToDo-App/",
+  "homepage": "https://kailyncleere.github.io/ToDo-App/todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
